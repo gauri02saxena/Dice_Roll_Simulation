@@ -2,7 +2,7 @@
 
 ## Reference Article
 
-**Important Reference:** Please refer to my article on GeeksforGeeks: [GUI Dice Roll Simulation using Python](https://www.geeksforgeeks.org/gui-dice-roll-simulation-using-python/). 
+** Please refer to my article on GeeksforGeeks: [GUI Dice Roll Simulation using Python](https://www.geeksforgeeks.org/gui-dice-roll-simulation-using-python/). **
 
 ## Description
 
