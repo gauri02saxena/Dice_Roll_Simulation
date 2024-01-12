@@ -2,8 +2,8 @@
 
 ## Reference Article
 
-**Please refer to my article on GeeksforGeeks: [GUI Dice Roll Simulation using Python](https://www.geeksforgeeks.org/gui-dice-roll-simulation-using-python/). 
-**
+**Please refer to my article on GeeksforGeeks for an-depth understanding and a step-by-step tutorial of this project:** **[GUI Dice Roll Simulation using Python](https://www.geeksforgeeks.org/gui-dice-roll-simulation-using-python/).** 
+
 ## Description
 
 "GUI Dice Roll Simulation" is a fun and interactive Tkinter project that simulates the rolling of dice. This Python-based application offers a graphical user interface (GUI) where users can virtually roll two dices and see the outcome. It's an excellent example of combining simple programming concepts with graphical elements to create an engaging application.
